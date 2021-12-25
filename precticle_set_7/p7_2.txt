@@ -1,0 +1,9 @@
+""" 2 write a python program to read a file containing pairs of numbers in a file.
+create file that contains the pairs of number as well as addition and multiplication
+of the two numbers in the same line"""
+
+
+a=10
+b=10
+sum=20
+mul=100
